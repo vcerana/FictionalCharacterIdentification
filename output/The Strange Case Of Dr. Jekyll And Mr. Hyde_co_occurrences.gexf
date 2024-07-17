@@ -1,0 +1,198 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-07-17">
+    <creator>NetworkX 3.3</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="edge">
+      <attribute id="0" title="Weight" type="long" />
+    </attributes>
+    <nodes>
+      <node id="Bradshaw" label="Bradshaw" />
+      <node id="Hyde" label="Hyde" />
+      <node id="Poole" label="Poole" />
+      <node id="Cain" label="Cain" />
+      <node id="Utterson" label="Utterson" />
+      <node id="Carew" label="Carew" />
+      <node id="Lanyon" label="Lanyon" />
+      <node id="Coutts" label="Coutts" />
+      <node id="Satan" label="Satan" />
+      <node id="Damon" label="Damon" />
+      <node id="Pythias" label="Pythias" />
+      <node id="Dr. J" label="Dr. J" />
+      <node id="Messrs" label="Messrs" />
+      <node id="Enfield" label="Enfield" />
+      <node id="Guest" label="Guest" />
+      <node id="Maw" label="Maw" />
+      <node id="Mr. Seek" label="Mr. Seek" />
+      <node id="Sir Danvers" label="Sir Danvers" />
+    </nodes>
+    <edges>
+      <edge source="Bradshaw" target="Hyde" id="0" weight="2">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Bradshaw" target="Poole" id="1" weight="1">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Hyde" target="Carew" id="2" weight="3">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Hyde" target="Dr. J" id="3" weight="1">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Hyde" target="Enfield" id="4" weight="3">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Hyde" target="Guest" id="5" weight="2">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Hyde" target="Lanyon" id="6" weight="12">
+        <attvalues>
+          <attvalue for="0" value="12" />
+        </attvalues>
+      </edge>
+      <edge source="Hyde" target="Maw" id="7" weight="1">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Hyde" target="Messrs" id="8" weight="2">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Hyde" target="Mr. Seek" id="9" weight="1">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Hyde" target="Poole" id="10" weight="8">
+        <attvalues>
+          <attvalue for="0" value="8" />
+        </attvalues>
+      </edge>
+      <edge source="Hyde" target="Satan" id="11" weight="1">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Hyde" target="Sir Danvers" id="12" weight="3">
+        <attvalues>
+          <attvalue for="0" value="3" />
+        </attvalues>
+      </edge>
+      <edge source="Hyde" target="Utterson" id="13" weight="49">
+        <attvalues>
+          <attvalue for="0" value="49" />
+        </attvalues>
+      </edge>
+      <edge source="Poole" target="Enfield" id="14" weight="2">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Poole" target="Guest" id="15" weight="2">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Poole" target="Lanyon" id="16" weight="2">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Poole" target="Maw" id="17" weight="1">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Poole" target="Utterson" id="18" weight="21">
+        <attvalues>
+          <attvalue for="0" value="21" />
+        </attvalues>
+      </edge>
+      <edge source="Cain" target="Utterson" id="19" weight="1">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Utterson" target="Carew" id="20" weight="2">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Utterson" target="Enfield" id="21" weight="11">
+        <attvalues>
+          <attvalue for="0" value="11" />
+        </attvalues>
+      </edge>
+      <edge source="Utterson" target="Guest" id="22" weight="4">
+        <attvalues>
+          <attvalue for="0" value="4" />
+        </attvalues>
+      </edge>
+      <edge source="Utterson" target="Lanyon" id="23" weight="9">
+        <attvalues>
+          <attvalue for="0" value="9" />
+        </attvalues>
+      </edge>
+      <edge source="Utterson" target="Mr. Seek" id="24" weight="1">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Utterson" target="Sir Danvers" id="25" weight="2">
+        <attvalues>
+          <attvalue for="0" value="2" />
+        </attvalues>
+      </edge>
+      <edge source="Carew" target="Lanyon" id="26" weight="1">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Lanyon" target="Guest" id="27" weight="1">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Lanyon" target="Sir Danvers" id="28" weight="1">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Coutts" target="Satan" id="29" weight="1">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Damon" target="Pythias" id="30" weight="1">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Dr. J" target="Messrs" id="31" weight="1">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+      <edge source="Messrs" target="Maw" id="32" weight="1">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
