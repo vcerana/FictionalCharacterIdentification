@@ -29,6 +29,6 @@ The output is saved in the output folder and produces the following files:
 To process a book or story (or multiple books/stories), follow these steps:
 
 * Clone the repository
-* Install the required dependencies
+* Install the required dependencies (requirements.txt)
 * Place the book(s) in .txt format into the book_to_process folder
 * Run the notebook named Process Book Pipeline.ipynb
