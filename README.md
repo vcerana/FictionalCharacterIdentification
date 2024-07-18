@@ -12,7 +12,7 @@ This repository features an example processing pipeline for R.L. Stevenson's nov
 *  <strong> Network Visualization: </strong>Utilizes data to create a visual representation of relationships between characters.
 
 
-This pipeline serves as a practical demonstration of text analysis techniques, showcasing how literary data can be structured and analyzed to uncover insights.
+This pipeline serves as a practical demonstration of text analysis techniques, showcasing how literary data can be structured and analyzed to uncover insights. The methodologies applied, along with their limitations, are explained in the thesis, and this showcase has been specifically created to demonstrate them. Additionally, future developments will improve these methodologies.
 
 In the notebook folder, you will find two notebooks:
 
