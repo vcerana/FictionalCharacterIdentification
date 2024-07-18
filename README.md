@@ -2,7 +2,7 @@
 
 This repository features an example processing pipeline for R.L. Stevenson's novel "The Strange Case of Dr. Jekyll and Mr. Hyde". The primary objective is to extract a comprehensive list of characters from the book, group entities by their identity, and generate a visual network that illustrates relationships between different characters based on their co-occurrence at the sentence level.
 
-This repository is developed for studying purposes as part of a thesis project and is under development.
+###Please note that this repository has been developed for study purposes and is associated with an ongoing thesis project.
 
 ## Key Features:
 ### Character Extraction: Automatically identifies and lists characters from the text.
