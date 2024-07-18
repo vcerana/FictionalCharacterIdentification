@@ -5,9 +5,12 @@ This repository features an example processing pipeline for R.L. Stevenson's nov
 <strong> Please note that this repository has been developed for study purposes and is associated with an ongoing thesis project. </strong>
 
 ## Key Features:
-<strong> Character Extraction: Automatically identifies and lists characters from the text.</strong>
-<strong> Identity Grouping: Groups characters by their respective identities within the narrative.</strong>
-<strong> Network Visualization: Utilizes data to create a visual representation of relationships between characters.</strong>
+<strong> * Character Extraction: Automatically identifies and lists characters from the text.</strong>
+
+<strong> * Identity Grouping: Groups characters by their respective identities within the narrative.</strong>
+
+<strong> * Network Visualization: Utilizes data to create a visual representation of relationships between characters.</strong>
+
 
 This pipeline serves as a practical demonstration of text analysis techniques, showcasing how literary data can be structured and analyzed to uncover insights.
 
